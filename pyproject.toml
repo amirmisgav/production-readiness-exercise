@@ -1,6 +1,5 @@
 [project]
 name = "deploy-notifier-api"
-version = "0.1.0"
 description = "Hackathon toy for the Production Readiness exercise"
 requires-python = ">=3.11"
 dependencies = [
